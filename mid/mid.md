@@ -9,7 +9,7 @@
 [Mux](https://github.com/yunuun/_co/blob/master/01/Mux.hdl)
 [DMux](https://github.com/yunuun/_co/blob/master/01/DMux.hdl)
 
-有詢問同學要怎麼寫
+有詢問同學要怎麼寫。
 
 ---
 
@@ -25,7 +25,7 @@
 [DMux4Way](https://github.com/yunuun/_co/blob/master/01/DMux4Way.hdl)
 [DMux8Way](https://github.com/yunuun/_co/blob/master/01/DMux8Way.hdl)
 
-原創
+原創。
 
 ---
 
@@ -36,7 +36,7 @@
 [Add16](https://github.com/yunuun/_co/blob/master/02/Add16.hdl)
 [Inc16](https://github.com/yunuun/_co/blob/master/02/Inc16.hdl)
 
-原創
+原創。
 
 ---
 
@@ -44,7 +44,7 @@
 
 [ALU](https://github.com/yunuun/_co/blob/master/02/ALU.hdl)
 
-原創
+原創。
 
 ---
 
@@ -55,7 +55,7 @@
 [RAM8](https://github.com/yunuun/_co/blob/master/03/a/RAM8.hdl)
 [RAM64](https://github.com/yunuun/_co/blob/master/03/a/RAM64.hdl)
 
-原創
+原創。
 
 ---
 
@@ -66,13 +66,13 @@
 [RAM16K](https://github.com/yunuun/_co/blob/master/03/b/RAM16K.hdl)
 [PC](https://github.com/yunuun/_co/blob/master/03/a/PC.hdl)
 
-原創
+原創，PC有參考網路上的邏輯圖。
 
 ---
 
 ## 第七週習題
 
-
+[Mult](https://github.com/yunuun/_co/blob/master/04/mult/mult.asm)
 
 使用 ChatGPT 進行 debug。
 
@@ -80,21 +80,17 @@
 
 ## 第八週習題
 
-
-
-此作業參考範例和 ChatGPT。
+未完成。
 
 ---
 
 ## 第九週習題
 
-
-
-此作業參考範例。
+未完成。
 
 ---
 
 ## 第十週習題
 
-未完成，因為看不太懂要怎麼寫。
+未完成。
 

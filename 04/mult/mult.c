@@ -5,7 +5,7 @@ int mult(int R1){
     int R0 = 2;
     int R2 = 0;
 LOOP:
-    if(i>R1) goto END;
+    if(i>R1) goto END;//JGT
     R2 = R2 + R0;
     i++;
 
@@ -13,8 +13,5 @@ LOOP:
 
 END:
     return R2;
-}
-int main(){
-    printf("mult(3)=%d\n",mult(3));
 }
 
